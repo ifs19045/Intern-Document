@@ -1,0 +1,13 @@
+9	Lampiran
+
+Bagian ini terdiri dari: 
+A	ToR, Term Of Reference
+B	PiP, Project Implementation Plan
+C	Pelaksanaan:
+C.1	LA, Log Activity (Laporan kegiatan)
+C.2	Daftar hadir
+C.3	MoM, Minutes of Meeting selama kerja praktek. 
+D	Dokumen teknis yang dihasilkan selama KP (minimal satu).
+
+
+lihat dari file rep asli, itu urutannya
